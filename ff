@@ -1,4 +1,4 @@
-   getgenv().AutoFarm = true 
+--[[patched due to roblox kick behavior and arsenal banwaves   getgenv().AutoFarm = true 
    local serverhop_Speed = 45
 spawn(function()
 while AutoFarm do task.wait()
